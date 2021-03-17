@@ -6,4 +6,4 @@ the Jupyter notebooks are used for (i) the retrieval of XETRA data, (ii) the ret
 (ii)  [02_industry_sector_enrichment_prep](code/02_industry_sector_enrichment_prep.ipynb)  
 (iii) [03_enriching_data](code/03_enriching_data.ipynb)  
 
-the visualizations can be recreated using the [Tableau workbook]("visualizations/Data Visualisation with Tableau.twb") after connecting it to the final data set based on the previous steps
+the visualizations can be recreated using the [Tableau workbook](visualizations/Data&#32Visualisation&#32with&#32Tableau.twb) after connecting it to the final data set based on the previous steps
